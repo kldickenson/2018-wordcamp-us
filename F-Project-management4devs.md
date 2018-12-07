@@ -1,5 +1,7 @@
 # Project Management for Developers - Jessi Gurr @jessigurr Iceberg Web Design
 
+Icebergwebdesign.com/wcus
+
 ## Scope Creep
 
 _Projects have a beginning and an end, and they have a defined scope and resources to complete_
