@@ -1,4 +1,4 @@
-# Design Research Done Right - Erika Hall
+# Design Research Done Right - Erika Hall @mulegirl
 
 LISTEN!
 
